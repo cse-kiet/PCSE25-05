@@ -1,4 +1,4 @@
-# Title of Project: Indian Sign Language Recognition using deep learning.
+# Title of Project: Hand Gesture Recognition for Indian Sign Language using Deep Learning.
 
 ## Team Members:
 1. Abhinav Singh(2100290100006)
