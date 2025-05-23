@@ -1,13 +1,13 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Indian Sign Language Recognition using deep learning.
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Abhinav Singh(2100290100006)
+2. Akshat Verma(2100290100017)
+3. Disha Goel(2100290100057)
+4. Aayush Kumar(2200290109001)
 
 ## Steps for Execution:
-1. [STEP 1]
+1. Open Detection 
 2. [STEP 2]
    (Add more steps as needed)
 
