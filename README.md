@@ -34,8 +34,8 @@ This project aims to develop a real-time hand gesture recognition system tailore
 | Task                                             | Status       |
 |--------------------------------------------------|--------------|
 | Final Project Report                             | ✅ Done       |
-| Certificate VII Semester (Dated: December 2024)  | will be uploaded soon |
-| Certificate VIII Semester (Dated: May 2025)      | will be uploaded soon  |
+| Certificate VII Semester (Dated: December 2024)  | ✅ Done       |
+| Certificate VIII Semester (Dated: May 2025)      | ✅ Done       |
 | Synopsis                                         | ✅ Done       |
 | Final Presentation                               | ✅ Done       |
 | Source Code                                      | ✅ Done       |
